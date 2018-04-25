@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "323814206611",
+    "firebase_url": "https://fiper-36de4.firebaseio.com",
+    "project_id": "fiper-36de4",
+    "storage_bucket": "fiper-36de4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323814206611:android:e1ee61e256773eb3",
+        "android_client_info": {
+          "package_name": "com.example.android.camera2basic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323814206611-muv7goob4c56ddkr0lcsaec0c4q5cau7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.camera2basic",
+            "certificate_hash": "f6139fb5692fc49759357e403f822339e7b0c4af"
+          }
+        },
+        {
+          "client_id": "323814206611-4l660mp0rqgekpecpfr0jgecdo6oo67q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQxX2bTrbWTcmyhBShopWTeaq5cjb9Nvk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323814206611-4l660mp0rqgekpecpfr0jgecdo6oo67q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+#Sun Mar 18 06:42:10 IST 2018
+base.0=/home/kevin/Desktop/FiperCamera2API/Application/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex
